@@ -1,2 +1,2 @@
-This is a test file used for making a change to a github repository
+This is a final file used for making a change to a github repository
 
